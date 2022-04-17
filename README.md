@@ -17,7 +17,7 @@ Full-Stack Web Applications
 
 ## Shreyansh WhatsApp
 
-<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_whatsapp.png?raw=true" width="950" height="550"/>
+<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_whatsapp.png?raw=true" width="950" height="450"/>
 
 
 ## Shreyansh Amazon Ecommerce
