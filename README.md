@@ -23,7 +23,7 @@ Open the respective project and go through the deployed link for live demo.
 
 ## Shreyansh Zoom
 
-<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_zoom.png?raw=true" width="1000" height="450"/>
+<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_zoom.png?raw=true" width="950" height="450"/>
 
 
 
