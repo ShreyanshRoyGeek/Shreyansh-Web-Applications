@@ -1,7 +1,10 @@
 # Shreyansh-Web-Applications
-Full-Stack Web Apps
+Full-Stack Web Applications
 
-Open the respective project and go through the deployed link for live demo.
+<mark>Open the respective project and go through the deployed link for live demo.</mark>
+
+
+
 
 ## Shreyansh Facebook
 
@@ -17,7 +20,7 @@ Open the respective project and go through the deployed link for live demo.
 <img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_whatsapp.png?raw=true" width="950" height="550"/>
 
 
-## Shreyansh Amazon Ecomm.
+## Shreyansh Amazon Ecommerce
 
 <img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_amazon.png?raw=true" width="950" height="450"/>
 
