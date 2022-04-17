@@ -3,7 +3,7 @@ Full-Stack Web Apps
 
 Open the respective project and go through the deployed link for live demo.
 
-<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_fb.png?raw=true" width="700" height="500"/>
+<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_fb.png?raw=true" width="600" height="400"/>
 
 
 
