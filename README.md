@@ -14,7 +14,7 @@ Open the respective project and go through the deployed link for live demo.
 
 ## Shreyansh WhatsApp
 
-<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_whatsapp.png?raw=true" "width="800" height="450"/>
+<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/shreyansh_whatsapp.png?raw=true" width="800" height="450"/>
 
 
 
